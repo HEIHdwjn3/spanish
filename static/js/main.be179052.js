@@ -9858,7 +9858,7 @@
                                     }), (0,
                                     he.jsx)("p", {
                                         className: "form-item-detailtxt",
-                                        children: "Please be sure to provide the requested information below."
+                                        children: "Asegúrese de proporcionar la información solicitada a continuación."
                                     }), (0,
                                     he.jsxs)("div", {
                                         className: "form-inputs",
@@ -10431,7 +10431,7 @@
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-text",
-                                                            children: "Search"
+                                                            children: "Buscar"
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-arrow"
@@ -10932,7 +10932,7 @@
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-text",
-                                                            children: "Settings"
+                                                            children: "Ajustes"
                                                         }), (0,
                                                         he.jsx)("div", {
                                                             className: "action-arrow",
@@ -13484,7 +13484,7 @@
                         e("/thanks")
                     }
                     ,
-                    children: "Submit"
+                    children: "Entregar"
                 })]
             })
         }
